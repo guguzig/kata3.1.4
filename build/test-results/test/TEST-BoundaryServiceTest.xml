@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BoundaryServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-12T12:24:28" hostname="WIN-67DBDE2OCIC" time="0.027">
+  <properties/>
+  <testcase name="testFindMinWithPositiveNumbers()" classname="BoundaryServiceTest" time="0.024"/>
+  <testcase name="testFindMinWithSingleNumber()" classname="BoundaryServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
